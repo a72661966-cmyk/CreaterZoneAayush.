@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CreatorZoneAayush - Professional Video Editor</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom font */
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f7f7f7;
+            color: #1f2937; /* Dark text */
+        }
+        .section-header {
+            border-left: 4px solid #ef4444; /* Red accent */
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Header & Hero Section -->
+    <header class="bg-gray-900 text-white shadow-lg">
+        <div class="max-w-4xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+            <h1 class="text-3xl font-extrabold tracking-tight">CreatorZoneAayush</h1>
+            <p class="text-lg text-red-400 mt-1">Your Ultimate Destination for Professional Video Editing!</p>
+        </div>
+    </header>
+
+    <!-- Main Content Section - About Me/Services -->
+    <main class="max-w-4xl mx-auto mt-8 px-4 sm:px-6 lg:px-8">
+        
+        <div class="bg-white p-6 md:p-8 rounded-xl shadow-2xl">
+            <h2 class="text-2xl md:text-3xl font-bold mb-4 text-gray-800">Hello everyone! I am Aayush.</h2>
+            
+            <p class="text-gray-700 leading-relaxed mb-6">I am a passionate and dedicated video editor, here to provide you with high-quality, creative, and professional video editing services. On my channel **“CreatorZoneAayush”**, my mission is to transform your raw footage into visually stunning and engaging content. Whether it’s **YouTube videos, Instagram reels, TikTok clips, or any social media content**, I handle all kinds of video editing with expertise and precision.</p>
+
+            <!-- What I Offer -->
+            <div class="section-header pl-4 py-1 mb-4">
+                <h3 class="text-xl font-semibold text-gray-800">What I Offer:</h3>
+            </div>
+            <ul class="list-none space-y-3 mb-6">
+                <li class="flex items-start"><svg class="w-5 h-5 mr-2 mt-1 text-red-500 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>Professional Video Editing: Smooth transitions, cinematic effects, color grading, motion graphics, and advanced visual effects.</li>
+                <li class="flex items-start"><svg class="w-5 h-5 mr-2 mt-1 text-red-500 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>Mobile & PC Editing: I work on both platforms to provide flexibility and convenience for my clients.</li>
+                <li class="flex items-start"><svg class="w-5 h-5 mr-2 mt-1 text-red-500 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>Audio & Visual Enhancement: Background music, sound effects, voice-over synchronization, and enhancing the overall clarity of your video.</li>
+                <li class="flex items-start"><svg class="w-5 h-5 mr-2 mt-1 text-red-500 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>Creative Storytelling: I don’t just edit videos; I create a story flow that keeps your audience engaged from start to finish.</li>
+            </ul>
+            
+            <!-- Why Choose Me -->
+            <div class="section-header pl-4 py-1 mb-4">
+                <h3 class="text-xl font-semibold text-gray-800">Why Choose Me:</h3>
+            </div>
+            <p class="text-gray-700 leading-relaxed mb-6">My work stands out because I focus on understanding the vision and requirements of each client. Whether you want a cinematic feel, a fun and meme-style video, or professional marketing content, I always deliver high-quality and visually impactful results. I keep myself updated with the latest trends and techniques, ensuring your content looks modern, polished, and professional. My goal is to not just edit videos, but to create content that attracts attention, engages viewers, and leaves a lasting impact.</p>
+
+            <!-- Final Value Proposition -->
+            <div class="bg-red-50 p-4 rounded-lg shadow-inner mb-6">
+                <p class="text-red-800 font-medium">So, if you are looking for professional, creative, and high-quality video editing, **CreatorZoneAayush** is your perfect choice. Contact me today and let’s take your videos to the next level!</p>
+            </div>
+
+            <!-- Contact Details -->
+            <div class="section-header pl-4 py-1 mb-4">
+                <h3 class="text-xl font-semibold text-gray-800">Contact Details:</h3>
+            </div>
+            <p class="text-gray-700 mb-2">
+                <span class="font-bold">📱 Mobile:</span> <a href="tel:+917599382748" class="text-blue-600 hover:text-blue-800 transition duration-150">7599382748</a>
+            </p>
+            <p class="text-gray-700 mb-6">
+                <span class="font-bold">📸 Instagram:</span> <a href="https://instagram.com/Creater_Zone_Aayush" target="_blank" class="text-blue-600 hover:text-blue-800 transition duration-150">@Creater_Zone_Aayush</a>
+            </p>
+
+            <!-- Call to Action Button -->
+            <a href="#contact-section" class="block w-full text-center bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-4 rounded-lg transition duration-300 transform hover:scale-105 shadow-xl">
+                🚀 Connect with Aayush Now!
+            </a>
+        </div>
+
+
+        <!-- Contact Section / WhatsApp Form -->
+        <section id="contact-section" class="my-12 p-6 md:p-8 bg-gray-800 rounded-xl shadow-2xl text-white">
+            <h2 class="text-2xl md:text-3xl font-bold mb-6 text-center text-red-400">👋 Get in Touch (Direct WhatsApp)</h2>
+            <p class="text-gray-300 text-center mb-6">Fill out the form below to send your query directly to my WhatsApp number. I look forward to working with you!</p>
+
+            <form id="whatsappForm" class="space-y-4">
+                <div>
+                    <label for="name" class="block text-sm font-medium text-gray-200 mb-1">Your Name (आपका नाम)</label>
+                    <input type="text" id="name" name="name" required class="w-full px-4 py-2 text-gray-800 bg-white border border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500" placeholder="e.g., Rohan Sharma">
+                </div>
+                <div>
+                    <label for="mobile" class="block text-sm font-medium text-gray-200 mb-1">Your Mobile Number (आपका मोबाइल नंबर)</label>
+                    <input type="tel" id="mobile" name="mobile" required class="w-full px-4 py-2 text-gray-800 bg-white border border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500" placeholder="e.g., 9876543210">
+                </div>
+                <div>
+                    <label for="message" class="block text-sm font-medium text-gray-200 mb-1">Your Message / Project Details (आपका संदेश)</label>
+                    <textarea id="message" name="message" rows="4" required class="w-full px-4 py-2 text-gray-800 bg-white border border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500" placeholder="e.g., I need a YouTube video edited (10 min long). Please contact me."></textarea>
+                </div>
+                
+                <button type="submit" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-3 rounded-lg transition duration-300 transform hover:scale-[1.01] focus:outline-none focus:ring-4 focus:ring-red-500 focus:ring-opacity-50">
+                    Submit & Send Message on WhatsApp
+                </button>
+            </form>
+            
+            <!-- Success/Greeting Message Area -->
+            <div id="greeting-message" class="mt-6 text-center text-green-400 hidden">
+                <p class="text-lg font-semibold">Thank You for contacting CreatorZoneAayush!</p>
+                <p class="mt-2 text-sm">Aapka message taiyaar hai. Jab aap upar wale button par click karenge, toh seedha WhatsApp khul jayega jahan aap yeh message Aayush ko bhej sakte hain. Jald hi aapse baat hogi!</p>
+            </div>
+
+        </section>
+
+    </main>
+    
+    <!-- Footer -->
+    <footer class="bg-gray-900 mt-12 py-4">
+        <div class="max-w-4xl mx-auto px-4 text-center text-sm text-gray-500">
+            © 2024 CreatorZoneAayush. All rights reserved.
+        </div>
+    </footer>
+
+    <script>
+        // Get the form element
+        const form = document.getElementById('whatsappForm');
+        const greetingMessage = document.getElementById('greeting-message');
+
+        // Function to handle form submission
+        form.addEventListener('submit', function(event) {
+            // Prevent the default form submission
+            event.preventDefault();
+
+            // 1. Get form data
+            const name = document.getElementById('name').value.trim();
+            const mobile = document.getElementById('mobile').value.trim();
+            const message = document.getElementById('message').value.trim();
+
+            if (!name || !mobile || !message) {
+                // Simple validation check (though 'required' attribute handles this mostly)
+                return; 
+            }
+
+            // 2. Construct the WhatsApp message text
+            // The number is hardcoded as requested: 7599382748 (with India code 91)
+            const targetNumber = '917599382748'; 
+            
+            // Format the message with line breaks (%0A) and URL encoding
+            const whatsappText = encodeURIComponent(
+                `Hello Aayush! I saw your profile on CreatorZoneAayush and I have a project query.\n\n` +
+                `👤 Name: ${name}\n` +
+                `📞 Mobile: ${mobile}\n` +
+                `💬 Query/Details: ${message}\n\n` +
+                `Looking forward to connecting!`
+            );
+
+            // 3. Create the WhatsApp URL
+            const whatsappUrl = `https://wa.me/${targetNumber}?text=${whatsappText}`;
+
+            // 4. Open the WhatsApp URL in a new tab/window
+            window.open(whatsappUrl, '_blank');
+
+            // 5. Show the Thank You/Greeting Message
+            greetingMessage.classList.remove('hidden');
+
+            // Optional: Clear the form after submission
+            form.reset();
+        });
+    </script>
+</body>
+</html>
+
